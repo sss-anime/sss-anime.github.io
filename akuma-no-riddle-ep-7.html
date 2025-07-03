@@ -1,11 +1,12 @@
+
 <!DOCTYPE html>
+
 <html lang="th">
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <title>Akuma no Riddle ปริศนาสั่งฆ่า ตอนที่ 7 พากย์ไทย</title>
 <link href="https://img2.pic.in.th/pic/039b1c3dd878efaf74.png" rel="icon" type="image/png"/>
-<link href="https://sss-anime.github.io/akuma-no-riddle-ep-7.html" rel="canonical"/>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
   body { margin: 0; font-family: 'Kanit', sans-serif; background: #141414; color: #fff; }
@@ -27,8 +28,49 @@
   .nav-buttons { text-align: center; margin-bottom: 25px; }
   .nav-buttons a { display: inline-block; margin: 0 8px; background-color: #ff3d00; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold; transition: background-color 0.3s; }
   .nav-buttons a:hover { background-color: #ff7043; }
-  .video-fullscreen { position: relative; width: 100vw; height: 56.25vw; margin: 0 auto; background: #000; overflow: hidden; }
-  .video-fullscreen iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
+  .video-fullscreen {
+    position: relative;
+    width: 100vw;
+    height: 56.25vw;
+    background: #000;
+    overflow: hidden;
+  }
+  iframe {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    border: none;
+    z-index: 1;
+    display: none;
+  }
+  #video-overlay {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex; align-items: center; justify-content: center;
+    cursor: pointer;
+    z-index: 2;
+  }
+  .play-button {
+    width: 80px;
+    height: 80px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 3px solid #fff;
+    border-radius: 50%;
+    position: relative;
+  }
+  .play-button::before {
+    content: '';
+    position: absolute;
+    left: 32%;
+    top: 26%;
+    width: 0;
+    height: 0;
+    border-left: 24px solid #fff;
+    border-top: 16px solid transparent;
+    border-bottom: 16px solid transparent;
+  }
   footer { text-align: center; padding: 20px; background-color: #1f1f1f; color: #ccc; font-size: 0.9rem; margin-top: 40px; }
 </style>
 </head>
@@ -51,7 +93,10 @@
 </div>
 </main>
 <div class="video-fullscreen">
-<iframe allow="autoplay" allowfullscreen src="https://gdplayer.vip/NIXFEHGSE3HA" title="Akuma no Riddle ปริศนาสั่งฆ่า ตอนที่ 7 พากย์ไทย"></iframe>
+<div id="video-overlay" onclick="showVideo()">
+<div class="play-button"></div>
+</div>
+<iframe allow="autoplay" allowfullscreen="" id="videoIframe" src="" title="Akuma no Riddle ปริศนาสั่งฆ่า ตอนที่ 7 พากย์ไทย"></iframe>
 </div>
 <footer>
   © 2025 SSS ANIME — ดูอนิเมะออนไลน์ พากย์ไทย ซับไทย ครบทุกแนว
@@ -66,26 +111,13 @@
       navMenu.classList.toggle('active');
     }
   });
+
+  function showVideo() {
+    window.open('https://www.profitableratecpm.com/vibu5m81hm?key=d479844987297a1250da337216c4a4a8', '_blank');
+    document.getElementById('videoIframe').src = 'https://gdplayer.vip/NIXFEHGSE3HA';
+    document.getElementById('videoIframe').style.display = 'block';
+    document.getElementById('video-overlay').style.display = 'none';
+  }
 </script>
-<style>
-  #histats_wrapper { width: 100%; text-align: center; margin-top: 30px; }
-  #histatsC { display: inline-block !important; float: none !important; }
-</style>
-<div id="histats_wrapper"><div id="histats_counter"></div></div>
-<script type="text/javascript">
-  var _Hasync = _Hasync || [];
-  _Hasync.push(['Histats.startgif', '1,4954367,4,10047,""']);
-  _Hasync.push(['Histats.fasi', '1']);
-  _Hasync.push(['Histats.track_hits', '']);
-  (function () {
-    var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
-    hs.src = ('//s10.histats.com/js15_gif_as.js');
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
-  })();
-</script>
-<noscript>
-<div id="histats_wrapper"><a href="/" target="_blank"><div id="histatsC">
-<img border="0" src="//s4is.histats.com/stats/i/4954367.gif?4954367&amp;103"/></div></a></div>
-</noscript>
 </body>
 </html>
