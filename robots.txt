@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://sss-anime.github.io/sitemap55.xml
