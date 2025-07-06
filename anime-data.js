@@ -575,8 +575,1478 @@ const animeList = [
     type: "ตอนที่ 1-23 พากย์ไทย Ss2",
     link: "jujutsu-kaisen-season-2-ss2-thai"
   },
+    {
   
-
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+  
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+      {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+    {
+  
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "jujutsu-kaisen-season-2-ss2-thai"
+  },
+  
 
 
 
