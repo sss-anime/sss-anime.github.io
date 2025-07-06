@@ -1,19 +1,28 @@
 <!DOCTYPE html>
-
 <html lang="th">
 <head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1" name="viewport"/>
-<title>SSS ANIME - อนิเมะออนไลน์ ดูการ์ตูนออนไลน์ sss anime อนิเมะพากย์ไทย อนิเมะซับไทย อนิเมะจีน sss อนิเมะ </title>
-<link href="https://img2.pic.in.th/pic/039b1c3dd878efaf74.png" rel="icon" type="image/png"/>
-
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>SSS ANIME - อนิเมะออนไลน์ ดูการ์ตูนออนไลน์ sss anime อนิเมะพากย์ไทย อนิเมะซับไทย อนิเมะจีน sss อนิเมะ </title>
+  <link rel="icon" href="https://img2.pic.in.th/pic/039b1c3dd878efaf74.png" type="image/png"/>
+  <link rel="canonical" href="https://sss-anime.github.io/"/>
+  <link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet">
+  <style>
     body {
       margin: 0;
       font-family: 'Kanit', sans-serif;
       background: #141414;
       color: #fff;
+    }
+
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+
+    a:hover {
+      text-decoration: none;
+      color: #ffa07a;
     }
 
     header {
@@ -23,7 +32,6 @@
       align-items: center;
       justify-content: space-between;
       flex-wrap: wrap;
-      position: relative;
     }
 
     .logo {
@@ -36,24 +44,12 @@
     nav {
       display: flex;
       gap: 10px;
-      flex-wrap: nowrap;
     }
 
     nav a {
       padding: 6px 12px;
-      background-color: transparent;
       color: white;
-      border-radius: 0;
-      text-decoration: none;
       font-weight: bold;
-      font-size: 1rem;
-      cursor: pointer;
-      transition: color 0.3s;
-    }
-
-    nav a:hover {
-      color: #ffccbc;
-      text-decoration: none;
     }
 
     .menu-toggle {
@@ -77,21 +73,12 @@
         background-color: #ff3d00;
         position: absolute;
         top: 100%;
-        right: 0;
         left: 0;
-        z-index: 100;
-        border-top: 1px solid #fff3;
+        right: 0;
       }
 
       nav.active {
         display: flex;
-      }
-
-      nav a {
-        padding: 12px;
-        border-radius: 0;
-        text-align: center;
-        font-size: 1.1rem;
       }
 
       .menu-toggle {
@@ -101,19 +88,18 @@
 
     main {
       max-width: 1200px;
-      margin: 20px auto 40px;
+      margin: 20px auto;
       padding: 0 15px;
     }
 
     h1 {
       text-align: center;
       color: #ffa07a;
-      margin-bottom: 20px;
     }
 
     .search-container {
       max-width: 400px;
-      margin: 0 auto 30px;
+      margin: 0 auto 20px;
     }
 
     input[type="search"] {
@@ -122,7 +108,6 @@
       border-radius: 25px;
       border: none;
       font-size: 1rem;
-      outline: none;
     }
 
     .anime-grid {
@@ -141,11 +126,7 @@
       background-color: #1f1f1f;
       border-radius: 8px;
       overflow: hidden;
-      color: #fff;
       transition: transform 0.2s;
-      display: flex;
-      flex-direction: column;
-      height: 100%;
     }
 
     .anime-card:hover {
@@ -154,23 +135,18 @@
 
     .anime-card img {
       width: 100%;
-      aspect-ratio: 3/4;
+      aspect-ratio: 3 / 4;
       object-fit: cover;
-      display: block;
     }
 
     .anime-info {
       padding: 10px;
-      flex-grow: 1;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
     }
 
     .anime-title {
       font-weight: 700;
-      margin: 0 0 5px;
       font-size: 1rem;
+      margin-bottom: 5px;
       overflow: hidden;
       display: -webkit-box;
       -webkit-line-clamp: 2;
@@ -178,13 +154,13 @@
     }
 
     .anime-ep {
-      font-size: 0.9rem;
       color: #ffa07a;
+      font-size: 0.9rem;
     }
 
     .pagination {
       text-align: center;
-      margin-top: 30px;
+      margin: 30px 0;
     }
 
     .pagination button {
@@ -192,11 +168,10 @@
       color: white;
       border: none;
       padding: 10px 16px;
-      margin: 0 5px;
+      margin: 0 4px;
       border-radius: 5px;
       font-weight: bold;
       cursor: pointer;
-      transition: background-color 0.3s;
     }
 
     .pagination button:disabled {
@@ -204,8 +179,9 @@
       cursor: default;
     }
 
-    .pagination button:hover:not(:disabled) {
-      background-color: #ff7043;
+    .pagination button.active {
+      background-color: #ffa07a;
+      cursor: default;
     }
 
     .no-results {
@@ -213,18 +189,6 @@
       color: #f66;
       font-weight: bold;
       margin-top: 40px;
-    }
-
-    .anime-card a {
-      color: inherit;
-      text-decoration: none !important;
-      display: block;
-      height: 100%;
-    }
-
-    .anime-card a:hover {
-      text-decoration: none !important;
-      color: #ffa07a;
     }
 
     footer {
@@ -235,90 +199,36 @@
       font-size: 0.9rem;
     }
   </style>
-<link href="https://sss-anime.github.io/" rel="canonical"/></head>
+</head>
 <body>
 <header>
-<a class="logo" href="/">SSS ANIME</a>
-<div aria-label="Toggle menu" class="menu-toggle" id="menuToggle" role="button" tabindex="0">
-<span></span><span></span><span></span>
-</div>
-<nav id="navMenu" role="navigation">
-<a href="contact.html">ติดต่อแจ้งปัญหา</a>
-</nav>
+  <a class="logo" href="/">SSS ANIME</a>
+  <div class="menu-toggle" id="menuToggle" role="button" tabindex="0" aria-label="Toggle menu">
+    <span></span><span></span><span></span>
+  </div>
+  <nav id="navMenu">
+    <a href="contact.html">ติดต่อแจ้งปัญหา</a>
+  </nav>
 </header>
+
 <main>
-<h1>SSS ANIME ดูฟรี อนิเมะพากย์ไทย ซับไทย อนิเมะจีน</h1>
-<div class="search-container">
-<input aria-label="ค้นหาอนิเมะ" id="searchInput" placeholder="ค้นหาอนิเมะ..." type="search"/>
-</div>
-<div class="anime-grid" id="animeGrid"></div>
-<div class="no-results" id="noResults" style="display:none;">ไม่พบรายการอนิเมะที่ค้นหา</div>
-<div class="pagination">
-<button disabled="" id="prevBtn">ก่อนหน้า</button>
-<button disabled="" id="nextBtn">ถัดไป</button>
-</div>
+  <h1>SSS ANIME ดูฟรี อนิเมะพากย์ไทย ซับไทย อนิเมะจีน</h1>
+  <div class="search-container">
+    <input id="searchInput" type="search" placeholder="ค้นหาอนิเมะ..." />
+  </div>
+  <div class="anime-grid" id="animeGrid"></div>
+  <div class="no-results" id="noResults" style="display:none;">ไม่พบรายการอนิเมะที่ค้นหา</div>
+  <div class="pagination" id="paginationContainer">
+    <button id="prevBtn">ก่อนหน้า</button>
+    <span id="pageNumbers"></span>
+    <button id="nextBtn">ถัดไป</button>
+  </div>
 </main>
+
 <footer>
   © 2025 SSS ANIME — ดูอนิเมะออนไลน์ sss อนิเมะ sss anime พากย์ไทย ซับไทย ครบทุกแนว
-    <style>
-  /* Footer sitemap style */
-  .footer-sitemap {
-    display: flex;
-    justify-content: center;
-    gap: 16px;
-    padding: 1rem 0;
-    background: #222;
-    color: #eee;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-  .footer-sitemap a {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    padding: 8px 14px;
-    background: #00796b;
-    color: #e0f2f1;
-    font-weight: 600;
-    border-radius: 6px;
-    text-decoration: none;
-    box-shadow: 0 2px 5px rgb(0 121 107 / 0.4);
-    transition: background-color 0.3s ease, box-shadow 0.3s ease;
-  }
-  .footer-sitemap a svg {
-    width: 18px;
-    height: 18px;
-    fill: currentColor;
-  }
-  .footer-sitemap a:hover {
-    background-color: #004d40;
-    box-shadow: 0 4px 12px rgb(0 77 64 / 0.7);
-  }
-</style>
-
-<footer>
-  <div class="footer-sitemap" aria-label="ลิงก์แผนผังเว็บไซต์">
-    <a href="https://sss-anime.github.io/sitemap_sss1.txt" target="_blank" rel="noopener noreferrer" title="Sitemap Part 1">
-      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-        <path d="M3 13h2v-2H3v2zm4 0h14v-2H7v2zM3 17h2v-2H3v2zm0-8h18V7H3v2z"/>
-      </svg>
-      Part 1
-    </a>
-    <a href="https://sss-anime.github.io/sitemap_sss2.txt" target="_blank" rel="noopener noreferrer" title="Sitemap Part 2">
-      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-        <path d="M3 13h2v-2H3v2zm4 0h14v-2H7v2zM3 17h2v-2H3v2zm0-8h18V7H3v2z"/>
-      </svg>
-      Part 2
-    </a>
-    <a href="https://sss-anime.github.io/sitemap_sss3.txt" target="_blank" rel="noopener noreferrer" title="Sitemap Part 3">
-      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-        <path d="M3 13h2v-2H3v2zm4 0h14v-2H7v2zM3 17h2v-2H3v2zm0-8h18V7H3v2z"/>
-      </svg>
-      Part 3
-    </a>
-  </div>
-
 </footer>
-<!-- โหลดข้อมูลจาก anime-data.js -->
+
 <script src="anime-data.js"></script>
 <script>
   const menuToggle = document.getElementById('menuToggle');
@@ -336,6 +246,7 @@
   const nextBtn = document.getElementById('nextBtn');
   const searchInput = document.getElementById('searchInput');
   const noResults = document.getElementById('noResults');
+  const pageNumbers = document.getElementById('pageNumbers');
 
   const itemsPerPage = 20;
   let currentPage = 1;
@@ -366,6 +277,34 @@
 
     prevBtn.disabled = (page === 1);
     nextBtn.disabled = (page === Math.ceil(filteredList.length / itemsPerPage));
+
+    renderPageNumbers();
+  }
+
+  function renderPageNumbers() {
+    pageNumbers.innerHTML = '';
+    const totalPages = Math.ceil(filteredList.length / itemsPerPage);
+    let maxPagesToShow = 4;
+    let startPage = Math.max(currentPage - 1, 1);
+    let endPage = startPage + maxPagesToShow - 1;
+
+    if (endPage > totalPages) {
+      endPage = totalPages;
+      startPage = Math.max(endPage - maxPagesToShow + 1, 1);
+    }
+
+    for (let i = startPage; i <= endPage; i++) {
+      const btn = document.createElement('button');
+      btn.textContent = i;
+      btn.disabled = i === currentPage;
+      if (i === currentPage) btn.classList.add('active');
+      btn.addEventListener('click', () => {
+        currentPage = i;
+        renderPage(currentPage);
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+      pageNumbers.appendChild(btn);
+    }
   }
 
   prevBtn.addEventListener('click', () => {
@@ -377,7 +316,8 @@
   });
 
   nextBtn.addEventListener('click', () => {
-    if (currentPage < Math.ceil(filteredList.length / itemsPerPage)) {
+    const totalPages = Math.ceil(filteredList.length / itemsPerPage);
+    if (currentPage < totalPages) {
       currentPage++;
       renderPage(currentPage);
       window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -395,43 +335,5 @@
 
   renderPage(currentPage);
 </script>
-<style>
-  /* ครอบเพื่อจัดกลาง */
-  #histats_wrapper {
-    width: 100%;
-    text-align: center;
-    margin-top: 30px; /* ปรับตำแหน่งแนวตั้งตามต้องการ */
-  }
-
-  #histatsC {
-    display: inline-block !important;
-    float: none !important;
-  }
-</style>
-<!-- Histats.com START -->
-<div id="histats_wrapper">
-<div id="histats_counter"></div>
-</div>
-<script type="text/javascript">
-  var _Hasync = _Hasync || [];
-  _Hasync.push(['Histats.startgif', '1,4954367,4,10047,""']);
-  _Hasync.push(['Histats.fasi', '1']);
-  _Hasync.push(['Histats.track_hits', '']);
-  (function () {
-    var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
-    hs.src = ('//s10.histats.com/js15_gif_as.js');
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
-  })();
-</script>
-<noscript>
-<div id="histats_wrapper">
-<a href="/" target="_blank">
-<div id="histatsC">
-<img border="0" src="//s4is.histats.com/stats/i/4954367.gif?4954367&amp;103"/>
-</div>
-</a>
-</div>
-</noscript>
-<!-- Histats.com END -->
 </body>
 </html>
