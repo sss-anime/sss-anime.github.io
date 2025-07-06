@@ -64,16 +64,16 @@ const animeList = [
   },
     {
   
-    title: "Douluo Dalu II: Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-108 พากย์ไทย",
+    title: "Douluo Dalu II: Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-106 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Soul-Land-2-Peerless-Tang-Sect-768x1077_11zon.webp",
-    type: "ตอนที่ 1-108 พากย์ไทย Ss2",
+    type: "ตอนที่ 1-106 พากย์ไทย Ss2",
     link: "Douluo-Dalu-2-thai"
   },
   {
   
-    title: "Douluo Dalu II: Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-110 ซับไทย",
+    title: "Douluo Dalu II: Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-109 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Soul-Land-2-Peerless-Tang-Sect-768x1077_11zon.webp",
-    type: "ตอนที่ 1-110 ซับไทย Ss2",
+    type: "ตอนที่ 1-109 ซับไทย Ss2",
     link: "Douluo-Dalu-2"
   },
   {
@@ -92,9 +92,9 @@ const animeList = [
   },
   {
   
-    title: "Tunshi Xingkong มหาศึกล้างพิภพ ตอนที่ 1-180 พากย์ไทย",
+    title: "Tunshi Xingkong มหาศึกล้างพิภพ ตอนที่ 1-177 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Tunshi-Xingkong-1-1.jpg",
-    type: "ตอนที่ 1-180 พากย์ไทย",
+    type: "ตอนที่ 1-177 พากย์ไทย",
     link: "Tunshi-Xingkong-Thai"
   },
   {
