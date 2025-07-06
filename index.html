@@ -21,8 +21,8 @@
     }
 
     a:hover {
-      text-decoration: none;
       color: #ffa07a;
+      text-decoration: none;
     }
 
     header {
@@ -38,7 +38,6 @@
       font-size: 1.8rem;
       font-weight: bold;
       color: white;
-      text-decoration: none;
     }
 
     nav {
@@ -48,7 +47,6 @@
 
     nav a {
       padding: 6px 12px;
-      color: white;
       font-weight: bold;
     }
 
@@ -75,6 +73,7 @@
         top: 100%;
         left: 0;
         right: 0;
+        z-index: 10;
       }
 
       nav.active {
@@ -167,11 +166,13 @@
       background-color: #ff3d00;
       color: white;
       border: none;
-      padding: 10px 16px;
-      margin: 0 4px;
+      padding: 6px 10px; /* ปรับเล็กลง */
+      margin: 0 2px;
       border-radius: 5px;
       font-weight: bold;
+      font-size: 0.85rem; /* ปรับเล็กลง */
       cursor: pointer;
+      min-width: 32px;
     }
 
     .pagination button:disabled {
@@ -181,7 +182,13 @@
 
     .pagination button.active {
       background-color: #ffa07a;
-      cursor: default;
+    }
+
+    .pagination span {
+      color: #ccc;
+      font-size: 1rem;
+      padding: 0 6px;
+      user-select: none;
     }
 
     .no-results {
@@ -284,26 +291,53 @@
   function renderPageNumbers() {
     pageNumbers.innerHTML = '';
     const totalPages = Math.ceil(filteredList.length / itemsPerPage);
-    let maxPagesToShow = 4;
-    let startPage = Math.max(currentPage - 1, 1);
-    let endPage = startPage + maxPagesToShow - 1;
+    const maxMiddlePages = 8; // 10 ปุ่ม = หน้าแรก+สุดท้าย + 8 ปุ่มตรงกลาง
 
-    if (endPage > totalPages) {
-      endPage = totalPages;
-      startPage = Math.max(endPage - maxPagesToShow + 1, 1);
-    }
-
-    for (let i = startPage; i <= endPage; i++) {
+    const createButton = (i) => {
       const btn = document.createElement('button');
       btn.textContent = i;
-      btn.disabled = i === currentPage;
-      if (i === currentPage) btn.classList.add('active');
+      if (i === currentPage) {
+        btn.classList.add('active');
+        btn.disabled = true;
+      }
       btn.addEventListener('click', () => {
         currentPage = i;
         renderPage(currentPage);
         window.scrollTo({ top: 0, behavior: 'smooth' });
       });
       pageNumbers.appendChild(btn);
+    };
+
+    const createEllipsis = () => {
+      const dot = document.createElement('span');
+      dot.textContent = '...';
+      dot.style.padding = '0 6px';
+      pageNumbers.appendChild(dot);
+    };
+
+    if (totalPages <= 10) {
+      // แสดงทุกหน้าเลย
+      for (let i = 1; i <= totalPages; i++) createButton(i);
+    } else {
+      createButton(1); // หน้าแรก
+
+      let start = Math.max(2, currentPage - 3);
+      let end = Math.min(totalPages - 1, currentPage + 4);
+
+      // ปรับ start, end เพื่อให้จำนวนปุ่มตรงกลางไม่เกิน 8 ปุ่ม
+      if (end - start + 1 > maxMiddlePages) {
+        end = start + maxMiddlePages - 1;
+      }
+
+      if (start > 2) createEllipsis();
+
+      for (let i = start; i <= end; i++) {
+        createButton(i);
+      }
+
+      if (end < totalPages - 1) createEllipsis();
+
+      createButton(totalPages); // หน้าสุดท้าย
     }
   }
 
