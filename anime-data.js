@@ -1,8 +1,8 @@
 const animeList = [
     {
-    title: "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5 ตอนที่ 1-153 ซับไทย",
+    title: "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5 ตอนที่ 1-155 ซับไทย",
     img: "https://img2.pic.in.th/pic/Fights-Break-Sphere-Season-5-1_11zon3cf7c93b89dc03bb.jpg",
-    type: "ตอนที่ 1-154 ซับไทย Ss5",
+    type: "ตอนที่ 1-155 ซับไทย Ss5",
     link: "Fights-Break-Sphere-Season-5"
   },
   {
@@ -12,9 +12,9 @@ const animeList = [
     link: "black-clover-thai"
   },
   {
-    title: "One Piece Season 21 – วันพีช ซีซั่น 21 เกาะอนาคตเกาะเอ็กเฮด ตอนที่ 1089-1134 ซับไทย",
+    title: "One Piece Season 21 – วันพีช ซีซั่น 21 เกาะอนาคตเกาะเอ็กเฮด ตอนที่ 1089-1135 ซับไทย",
     img: "https://img2.pic.in.th/pic/One-Piece-Season-21-4.jpg",
-    type: "ตอนที่ 1089-1134 ซับไทย",
+    type: "ตอนที่ 1089-1135 ซับไทย",
     link: "One-Piece-Season-21"
   },
 
@@ -50,30 +50,30 @@ const animeList = [
     link: "One-Piece-Season-21-thai"
   },
   {
-    title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-221 ซับไทย",
+    title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-223 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Perfect-World-1.jpg",
-    type: "ตอนที่ 1-220 ซับไทย",
+    type: "ตอนที่ 1-223 ซับไทย",
     link: "Perfect-World"
   },
   {
   
-    title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-212 พากย์ไทย",
+    title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-215 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Perfect-World-1.jpg",
-    type: "ตอนที่ 1-212 พากย์ไทย",
+    type: "ตอนที่ 1-215 พากย์ไทย",
     link: "Perfect-World-thai"
   },
     {
   
-    title: "Douluo Dalu II: Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-104 พากย์ไทย",
+    title: "Douluo Dalu II: Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-108 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Soul-Land-2-Peerless-Tang-Sect-768x1077_11zon.webp",
-    type: "ตอนที่ 1-105 พากย์ไทย Ss2",
+    type: "ตอนที่ 1-108 พากย์ไทย Ss2",
     link: "Douluo-Dalu-2-thai"
   },
   {
   
-    title: "Douluo Dalu II: Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-106 ซับไทย",
+    title: "Douluo Dalu II: Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-110 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Soul-Land-2-Peerless-Tang-Sect-768x1077_11zon.webp",
-    type: "ตอนที่ 1-107 ซับไทย Ss2",
+    type: "ตอนที่ 1-110 ซับไทย Ss2",
     link: "Douluo-Dalu-2"
   },
   {
@@ -85,16 +85,16 @@ const animeList = [
   },
   {
   
-    title: "Shen Yin Wangzuo ผนึกเทพบัลลังก์ราชันย์ ตอนที่ 1-165 ซับไทย",
+    title: "Shen Yin Wangzuo ผนึกเทพบัลลังก์ราชันย์ ตอนที่ 1-167 ซับไทย",
     img: "https://img2.pic.in.th/pic/GoOnlineTools-image-downloader-1_11zon-1.jpeg",
-    type: "ตอนที่ 1-166 ซับไทย",
+    type: "ตอนที่ 1-167 ซับไทย",
     link: "Shen-Yin-Wangzuo"
   },
   {
   
-    title: "Tunshi Xingkong มหาศึกล้างพิภพ ตอนที่ 1-176 พากย์ไทย",
+    title: "Tunshi Xingkong มหาศึกล้างพิภพ ตอนที่ 1-180 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Tunshi-Xingkong-1-1.jpg",
-    type: "ตอนที่ 1-176 พากย์ไทย",
+    type: "ตอนที่ 1-180 พากย์ไทย",
     link: "Tunshi-Xingkong-Thai"
   },
   {
